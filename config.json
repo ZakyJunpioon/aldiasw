@@ -1,0 +1,23 @@
+{
+    "ownerNumber": "6282250135972@s.whatsapp.net",
+    "ownerName": "Jiro",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Jiro Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "lolkey": "YOUR_APIKEY",
+    "sesidInsta": "default",
+    "sessionName": "aqulzz",
+    "txtDonasi": "GOPAY : QRIS\nDana : 0895324846622\nSaweria : -\nPulsa : 085215099246",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
